@@ -1,0 +1,120 @@
+<Order Action="CREATE" AllocationRuleID="STORE" AuthorizedClient="SAKS"
+    BillToID="a@a.cm" Createuserid="396713"
+    CustomerContactID="329183346089" CustomerEMailID="a@a.cm"
+    DocumentType="0001" EnteredBy="ATGS" EnterpriseCode="SAKS"
+    EntryType="POS" OrderDate="2018-08-08T03:13:49" OrderNo="" SellerOrganizationCode="8624">
+    <OrderLines>
+        <OrderLine CarrierServiceCode="Standard" Createuserid="396713"
+            DeliveryMethod="SHP" FulfillmentType="FT_STORE" GiftFlag="N"
+            GiftWrap="N" LineType="PRESELL" OrderedQty="1.00"
+            PrimeLineNo="1" SCAC="FEDEX" SubLineNo="1" ReqShipDate="2018-08-09T03:13:49" >
+            <Item ItemID="58511202" UnitOfMeasure="EACH"/>
+            <PersonInfoShipTo AddressLine1="1177 Hunt Club Rd"
+                AddressLine2="" AddressLine3="" City="Cambridge"
+                Country="CA" DayPhone="5192419012" EMailID="a@a.cm"
+                FirstName="Anthony" LastName="Bay" MiddleName=""
+                State="ON" Title="" ZipCode="10017"/>
+            <Instructions>
+                <Instruction InstructionText="N-" InstructionType="WRAP_TYPE"/>
+            </Instructions>
+            <LinePriceInfo IsLinePriceForInformationOnly="N"
+                ListPrice="20.00" PricingQuantityStrategy="FIX"
+                RetailPrice="20.00" TaxExemptionCertificate=""
+                TaxableFlag="" UnitPrice="20.00"/>
+            <LineCharges>
+                <LineCharge ChargeCategory="DISCOUNT"
+                    ChargeName="DISCOUNT" ChargePerLine="0.00"/>
+            </LineCharges>
+            <LineTaxes>
+                <LineTax ChargeCategory="Price" Tax="0.00"
+                    TaxName="General Sales and Use Tax" TaxPercentage="0.00"/>
+                <LineTax ChargeCategory="SHIPPINGCHARGE" Tax="0.00"
+                    TaxName="General Sales and Use Tax" TaxPercentage="0.00"/>
+            </LineTaxes>
+            <OrderDates/>
+            <OrderLineReservations>
+                <OrderLineReservation ItemID="58511202" Node="DC-LVG-689"
+                    Quantity="1.00" ReservationID="Presell_23" UnitOfMeasure="EACH"/>
+            </OrderLineReservations>
+            <Notes/>
+            <CustomAttributes/>
+            <Extn ExtnIsReturnable="Y" ExtnPackSlpPrcSuppress="Y"
+                ExtnShipZone="03" ExtnSignatureRequired="N"
+                ExtnWebLineNumber="000000001" ExtnWebOrderSuffix="000" ExtnPreSellEventName="Mid Season Sale" ExtnPreSellReleaseDate="2018-08-09T03:13:49" ExtnIsPreSell="Y"/>
+        </OrderLine>
+
+        <OrderLine CarrierServiceCode="Standard" Createuserid="396713"
+            DeliveryMethod="SHP" FulfillmentType="FT_STORE" GiftFlag="N"
+            GiftWrap="N" LineType="PRESELL" OrderedQty="1.00"
+            PrimeLineNo="2" SCAC="FEDEX" SubLineNo="1" ReqShipDate="2018-08-09T03:13:49" >
+            <Item ItemID="92398823" UnitOfMeasure="EACH"/>
+            <PersonInfoShipTo AddressLine1="1177 Hunt Club Rd"
+                AddressLine2="" AddressLine3="" City="Cambridge"
+                Country="CA" DayPhone="5192419012" EMailID="a@a.cm"
+                FirstName="Anthony" LastName="Bay" MiddleName=""
+                State="ON" Title="" ZipCode="10017"/>
+            <Instructions>
+                <Instruction InstructionText="N-" InstructionType="WRAP_TYPE"/>
+            </Instructions>
+            <LinePriceInfo IsLinePriceForInformationOnly="N"
+                ListPrice="20.00" PricingQuantityStrategy="FIX"
+                RetailPrice="20.00" TaxExemptionCertificate=""
+                TaxableFlag="" UnitPrice="20.00"/>
+            <LineCharges>
+                <LineCharge ChargeCategory="DISCOUNT"
+                    ChargeName="DISCOUNT" ChargePerLine="0.00"/>
+            </LineCharges>
+            <LineTaxes>
+                <LineTax ChargeCategory="Price" Tax="0.00"
+                    TaxName="General Sales and Use Tax" TaxPercentage="0.00"/>
+                <LineTax ChargeCategory="SHIPPINGCHARGE" Tax="0.00"
+                    TaxName="General Sales and Use Tax" TaxPercentage="0.00"/>
+            </LineTaxes>
+            <OrderDates/>
+            <OrderLineReservations>
+                <OrderLineReservation ItemID="92398823" Node="DC-LVG-689"
+                    Quantity="2.00" ReservationID="Presell_23" UnitOfMeasure="EACH"/>
+            </OrderLineReservations>
+            <Notes/>
+            <CustomAttributes/>
+            <Extn ExtnIsReturnable="Y" ExtnPackSlpPrcSuppress="Y"
+                ExtnShipZone="03" ExtnSignatureRequired="N"
+                ExtnWebLineNumber="000000001" ExtnWebOrderSuffix="000" ExtnPreSellEventName="Mid Season Sale" ExtnPreSellReleaseDate="2018-08-09T03:13:49" ExtnIsPreSell="Y"/>
+        </OrderLine>
+
+
+    </OrderLines>
+    <PersonInfoShipTo AddressLine1="1177 Hunt Club Rd" AddressLine2=""
+        AddressLine3="" City="Cambridge" Country="CA"
+        DayPhone="5192419012" EMailID="a@a.cm" FirstName="Anthony"
+        LastName="Bay" MiddleName="" State="ON" Title="" ZipCode="10017"/>
+    <PersonInfoBillTo AddressLine1="1177 Hunt Club Rd" AddressLine2=""
+        AddressLine3="" City="Cambridge" Country="CA"
+        DayPhone="5192419012" EMailID="a@a.cm" FirstName="Anthony"
+        LastName="Bay" MiddleName="" State="ON" Title="" ZipCode="10017"/>
+    <HeaderCharges>
+        <HeaderCharge ChargeAmount="20.05" ChargeCategory="YOUSAVED" ChargeName="YOUSAVED"/>
+    </HeaderCharges>
+    <PaymentMethods>
+        <PaymentMethod ChargeSequence="1" CreditCardExpDate="00/2000"
+            CreditCardName="Anthony Bay" DisplayCardNo="1735"
+            DisplaySvcNo="1735" FirstName="Anthony" LastName="Bay"
+            MaxChargeLimit="10" MiddleName="" PaymentReference1="1735"
+            PaymentService="REGULAR" PaymentType="SAKS_EMC"
+            SvcNo="6021990000201735" UnlimitedCharges="N">
+            <PaymentDetails AuthAvs="" AuthReturnCode=""
+                AuthReturnMessage="000000000000000"
+                AuthorizationExpirationDate="2500-01-01T00:00:00"
+                AuthorizationID="PREAUT" ChargeType="CHARGE"
+                ProcessedAmount="1000" Reference1="" Reference2="" RequestAmount="1000"/>
+            <PersonInfoBillTo AddressLine1="1177 Hunt Club Rd"
+                AddressLine2="" AddressLine3="" City="Cambridge"
+                Country="CA" DayPhone="5192419012" EMailID="a@a.cm"
+                FirstName="Anthony" LastName="Bay" MiddleName=""
+                State="ON" Title="" ZipCode="10017"/>
+        </PaymentMethod>
+    </PaymentMethods>
+    <Extn ExtnAssociateName="" ExtnClientID="329183346089"
+        ExtnCommLang="en_US" ExtnFiftyOneOrderNo="" ExtnIsFiftyOne="Y"
+        ExtnLoyaltyNo="" ExtnReference1="TK.TULIP.ORDER.STATUS.QUEUE"/>
+</Order>
